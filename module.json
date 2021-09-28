@@ -14,6 +14,6 @@
             "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
         }
     ],
-    "download": "https://github.com/rsbisho2/bean-dice/blob/master/releases/download/0.1.1/module.zip",
+    "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.1.1/module.zip",
     "manifest": "https://raw.githubusercontent.com/rsbisho2/bean-dice/master/module.json"
   }
