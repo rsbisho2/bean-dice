@@ -13,5 +13,6 @@
             "name":"dice-so-nice",
             "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
         }
-    ]
+    ],
+    "download": "https://github.com/rsbisho2/bean-dice/releases/download/0.1.1/module.zip"
   }
