@@ -1,17 +1,24 @@
 {
-    "name": "bean-dice",
+    "id": "bean-dice",
     "title": "Bean Dice",
     "description": "A simple module to add bean textures to Dice-So-Nice",
-    "author": "coffee",
-    "version": "0.1.1",
-    "minimumCoreVersion": "0.7.0",
-    "scripts": [
+    "authors": [
+        {
+        "name": "coffee"
+        }
+    ],
+    "version": "0.2.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "13"
+    },
+    "esmodules": [
         "scripts/main.js"
     ],
-    "dependencies":[
+    "relationships":{
+        "requires": [
         {
-            "name":"dice-so-nice",
-            "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+            "id":"dice-so-nice",
         }
     ],
     "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.1.1/module.zip",
