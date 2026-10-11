@@ -1,4 +1,4 @@
-Hooks.once('diceSoNiceInit', (dice3d) => {
+Hooks.once('diceSoNiceReady', (dice3d) => {
     dice3d.addTexture("Beans", {
         name: "Beans",
         composite: "source-over",
