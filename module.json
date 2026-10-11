@@ -17,10 +17,9 @@
     ],
     "relationships":{
         "requires": [
-        {
-            "id":"dice-so-nice",
-        }
-    ],
-    "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.1.1/module.zip",
+        { "id":"dice-so-nice"}
+        ]
+    },
+    "download": "https://github.com/rsbisho2/bean-dice/raw/master/releases/download/0.2.0/module.zip",
     "manifest": "https://raw.githubusercontent.com/rsbisho2/bean-dice/master/module.json"
   }
